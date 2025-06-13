@@ -1,0 +1,5 @@
+{
+  "name": "智能超市客服",
+  "description": "一个使用 Gemini API 构建的超市客服聊天机器人，提供中文交互界面。",
+  "requestFramePermissions": []
+}
